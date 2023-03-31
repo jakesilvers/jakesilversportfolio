@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel= "stylesheet" href="styles.css"/>
+    <title>SadBoy Arliss</title>
+</head>
+
+
+<body>
+    <header><h1>Arliss Betzel </h1></header>
+     <main>
+    <p id="description"> Contrary to his name there is an 'R' in there.</p>
+    <figure id="img-div">
+      <img id="image" src="img_1696_720.jpg" >
+           </figure>
+<section id="facts-section">
+    <h2>
+        Little Known Facts
+    </h2>
+<table>
+    <td>
+        One Column
+    </td>
+    <td>
+        Two Column
+    </td>
+    <td>
+        three column
+    </td>
+</table>
+</section>
+<nav>
+    <a href="info.html">Arliss Betzel Fan Club</a>
+</nav>
+<section id="quotes-section">
+    <h2>
+        Quotes Go here
+        </h2>
+<blockquote>
+    quote 1
+</blockquote>
+
+<blockquote>
+    quote 2
+</blockquote>
+
+<blockquote>
+    quote 3
+</blockquote>
+
+    </section>
+        
+<section id="links-section">
+<h2>
+    Random Pics of stuff he likes
+</h2>
+<ul><li>
+    <a href="img_1696_720.jpg">
+
+    </a>
+    
+</li>
+
+<li>
+    <a href="img_1696_720.jpg">
+
+    </a>
+    
+</li>
+<li>
+    <a href="img_1696_720.jpg">
+
+    </a>
+    
+</li>
+<li>
+    <a href="img_1696_720.jpg">
+
+    </a>
+    
+</li>
+
+
+</ul>
+</section>
+
+</main>
+        </body>
