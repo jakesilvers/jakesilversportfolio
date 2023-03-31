@@ -1,0 +1,55 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+  
+  
+   background-color: lightblue;
+  
+  }
+  
+  #main{
+    background-color:
+    goldenrod
+    border-radius 10px;
+  }
+  h1{
+    text-align: center;
+  }
+  title{
+    text-align: center;
+    font-size: 40px
+      padding-top 40px;
+    
+  }
+  #description{
+    text-align: center;
+    
+  }
+  
+  #img-div{
+    background-color: rgb(76, 0, 255);
+    padding: 20px;
+    
+  }
+  
+  img{
+     max-width: 400px;
+      height: auto;
+      display: block;
+      margin: auto;}   
+   
+  
+  
+  #image{
+   display: block;
+    
+    
+  }
+  
+h2{
+  text-decoration:underline
+}
+
+blockquote{
+  font-style: italic;
+}
